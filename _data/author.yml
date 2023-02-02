@@ -17,3 +17,5 @@ contact:
     url: https://github.com/hubcio
   - title: email
     url: mailto:h.gruszecki@gmail.com
+  - title: rss
+    url: https://hubcio.dev/feed.xml
