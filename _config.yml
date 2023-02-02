@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: hubcio tech blog
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Hubert Gruszecki
+  email: h.gruszecki@gmail.com
 
 plugins:
   - jemoji
